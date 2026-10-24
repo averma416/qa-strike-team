@@ -1,6 +1,6 @@
 # QA Strike Team
 
-An adversarial QA and security review skill for apps you build with Claude Code. You point it at a running app and its repo, and it tries to break the thing the way real users would, then hands back a bug report precise enough to fix from.
+An adversarial QA and security review skill for apps you build with agentic coding tools. You point it at a running app and its repo, and it tries to break the thing the way real users would, then hands back a bug report precise enough to fix from.
 
 It is built for the build-then-test loop: you ship a feature, you run this before calling it done.
 
